@@ -1,5 +1,5 @@
 import pytest
-from HttpClient import HttpClient
+from Httpclient import Httpclient
 import requests
 import logging
 import allure
